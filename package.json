@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-valedov/issues"
   },
-  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-valedov#readme"
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-valedov#readme",
+  "type": "module"
 }
